@@ -88,7 +88,7 @@
   </a>
 
   <a href="https://x.com/tech_by_niteshh" target="_blank">
-    <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg](https://cdn.imgbin.com/12/24/22/x-logo-modern-black-icon-with-x-design-UjLKEcpp.jpg)" height="40"/>
+    <img src="https://cdn.imgbin.com/12/24/22/x-logo-modern-black-icon-with-x-design-UjLKEcpp.jpg" height="40"/>
   </a>
 
   <a href="https://discord.gg/JswzDZUYP" target="_blank">
