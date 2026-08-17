@@ -1,27 +1,31 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:6c63ff,100:00c6ff&height=190&section=header&text=ɴɪᴛᴇsʜ%20ᴄʜᴀᴜʀᴀsɪʏᴀ&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ɪᴏᴛ%20sᴛᴜᴅᴇɴᴛ%20%C2%B7%20ᴀᴜᴛᴏᴍᴀᴛɪᴏɴ%20ᴇɴᴛʜᴜsɪᴀsᴛ%20%C2%B7%20ғᴜʟʟ%20sᴛᴀᴄᴋ%20ʟᴇᴀʀɴᴇʀ&descAlignY=60&descSize=15" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:6c63ff,100:00c6ff&height=190&section=header&text=NITESH%20CHAURASIYA&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=IoT%20Student%20%C2%B7%20Automation%20Enthusiast%20%C2%B7%20Full%20Stack%20Learner&descAlignY=60&descSize=15" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=ʙᴜɪʟᴅɪɴɢ+ᴀᴜᴛᴏᴍᴀᴛɪᴏɴ+%26+ᴀɪ+ᴡᴏʀᴋғʟᴏᴡs;ᴇxᴘʟᴏʀɪɴɢ+ғᴜʟʟ+sᴛᴀᴄᴋ+ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ;ʟᴇᴀʀɴɪɴɢ+ʙᴀᴄᴋᴇɴᴅ+%26+ᴀᴘɪs;ᴛᴜʀɴɪɴɢ+ɪᴅᴇᴀs+ɪɴᴛᴏ+ʀᴇᴀʟ+ᴘʀᴏᴊᴇᴄᴛs" alt="Typing Animation"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=650&height=50&lines=Building+Automation+%26+AI+Workflows;Exploring+Full+Stack+Development;Learning+Backend+%26+APIs;Turning+Ideas+Into+Real+Projects" alt="Typing Animation"/>
+</p>
+
+<br>
+
+<a href="https://github.com/tech-by-niteshh">
+  <img src="https://komarev.com/ghpvc/?username=tech-by-niteshh&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+</a>
 
 <br><br>
 
-<a href="https://komarev.com/ghpvc/?username=tech-by-niteshh">
-<img src="https://komarev.com/ghpvc/?username=tech-by-niteshh&label=ᴘʀᴏғɪʟᴇ+ᴠɪᴇᴡs&color=0e75b6&style=for-the-badge"/>
-</a>
-
 <a href="https://www.linkedin.com/in/nitesh-chaurasiya-a7b2aa3a5">
-<img src="https://img.shields.io/badge/ʟɪɴᴋᴇᴅɪɴ-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
+&nbsp;&nbsp;
 <a href="https://x.com/tech_by_niteshh">
-<img src="https://img.shields.io/badge/×-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
-
+&nbsp;&nbsp;
 <a href="https://discord.gg/JswzDZUYP">
-<img src="https://img.shields.io/badge/ᴅɪsᴄᴏʀᴅ-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
 </div>
@@ -30,137 +34,57 @@
 
 ## ᴀʙᴏᴜᴛ ᴍᴇ
 
-> ɪ'ᴍ ᴀɴ **ɪᴏᴛ sᴛᴜᴅᴇɴᴛ** ᴡʜᴏ ʟɪᴋᴇs ᴛᴜʀɴɪɴɢ ɪᴅᴇᴀs ɪɴᴛᴏ ᴘʀᴀᴄᴛɪᴄᴀʟ ᴘʀᴏᴊᴇᴄᴛs — ᴡɪᴛʜ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ɪɴᴛᴇʀᴇsᴛ ɪɴ ᴀᴜᴛᴏᴍᴀᴛɪᴏɴ, ᴀɪ, ᴀᴘɪs ᴀɴᴅ ᴡᴇʙ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ.
+> I'm an **IoT student** who likes turning ideas into practical projects — with a particular interest in automation, AI, APIs, and web development.
 
-* 🎓 ʟᴇᴀʀɴɪɴɢ **ғᴜʟʟ sᴛᴀᴄᴋ & ʙᴀᴄᴋᴇɴᴅ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ**
-* 🤖 ɪɴᴛᴇʀᴇsᴛᴇᴅ ɪɴ **ᴀɪ ᴀᴜᴛᴏᴍᴀᴛɪᴏɴ & ᴀᴘɪs**
-* 🐍 ᴇxᴘʟᴏʀɪɴɢ **ᴘʏᴛʜᴏɴ ᴀᴜᴛᴏᴍᴀᴛɪᴏɴ**
-* 🌐 ʙᴜɪʟᴅɪɴɢ **ᴡᴇʙ ᴀᴘᴘʟɪᴄᴀᴛɪᴏɴs**
-* ⚡ ʟᴇᴀʀɴɪɴɢ ᴛʜʀᴏᴜɢʜ **ʀᴇᴀʟ-ᴡᴏʀʟᴅ ᴘʀᴏᴊᴇᴄᴛs**
+- 🎓 Learning **full stack & backend development**
+- 🤖 Interested in **AI automation & APIs**
+- 🐍 Exploring **Python automation**
+- 🌐 Building **web applications**
+- ⚡ Learning through **real-world projects**
 
 ---
 
 ## ᴛᴇᴄʜ sᴛᴀᴄᴋ
 
-### ʟᴀɴɢᴜᴀɢᴇs
+**Languages**
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,python,cpp"/>
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,cpp" />
 
-### ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ
+**Development**
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,mongodb"/>
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb" />
 
-### ᴛᴏᴏʟs & ᴇɴᴠɪʀᴏɴᴍᴇɴᴛ
+**Tools & Environment**
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 
-### ᴀʀᴇᴀs ᴏғ ɪɴᴛᴇʀᴇsᴛ
+**Areas of Interest**
 
-<p>
-<img src="https://img.shields.io/badge/ᴀɪ%20ᴀᴜᴛᴏᴍᴀᴛɪᴏɴ-111827?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/ᴀᴘɪs-111827?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/ɪᴏᴛ-111827?style=for-the-badge&logo=arduino&logoColor=white"/>
-<img src="https://img.shields.io/badge/ᴀᴜᴛᴏᴍᴀᴛɪᴏɴ-111827?style=for-the-badge&logo=robotframework&logoColor=white"/>
-</p>
+<img src="https://img.shields.io/badge/AI%20Automation-111827?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/APIs-111827?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/IoT-111827?style=for-the-badge&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/Automation-111827?style=for-the-badge&logo=robotframework&logoColor=white"/>
 
 ---
 
 ## ᴄᴜʀʀᴇɴᴛ ғᴏᴄᴜs
 
-<table>
-<tr>
-<td width="50%">
-
-### 🤖 ᴀᴜᴛᴏᴍᴀᴛɪᴏɴ
-
-ʙᴜɪʟᴅɪɴɢ ᴘʀᴀᴄᴛɪᴄᴀʟ ᴀᴜᴛᴏᴍᴀᴛɪᴏɴ ᴡᴏʀᴋғʟᴏᴡs ᴜsɪɴɢ ᴘʏᴛʜᴏɴ ᴀɴᴅ ᴀᴘɪs.
-
-</td>
-<td width="50%">
-
-### 🌐 ғᴜʟʟ sᴛᴀᴄᴋ
-
-ʟᴇᴀʀɴɪɴɢ ғʀᴏɴᴛᴇɴᴅ, ʙᴀᴄᴋᴇɴᴅ ᴀɴᴅ ᴅᴀᴛᴀʙᴀsᴇ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🔗 ᴀᴘɪ ɪɴᴛᴇɢʀᴀᴛɪᴏɴ
-
-ᴇxᴘʟᴏʀɪɴɢ ʜᴏᴡ ᴀᴘɪs ᴄᴀɴ ᴄᴏɴɴᴇᴄᴛ ᴀɴᴅ ᴀᴜᴛᴏᴍᴀᴛᴇ ᴀᴘᴘʟɪᴄᴀᴛɪᴏɴs.
-
-</td>
-<td width="50%">
-
-### 🧠 ᴀɪ ᴡᴏʀᴋғʟᴏᴡs
-
-ᴇxᴘᴇʀɪᴍᴇɴᴛɪɴɢ ᴡɪᴛʜ ᴀɪ-ᴘᴏᴡᴇʀᴇᴅ ᴛᴏᴏʟs ᴀɴᴅ ᴀᴜᴛᴏᴍᴀᴛɪᴏɴ ɪᴅᴇᴀs.
-
-</td>
-</tr>
-</table>
+| | |
+|---|---|
+| **🤖 Automation** — Building practical automation workflows using Python and APIs. | **🌐 Full Stack** — Learning frontend, backend, and database development. |
+| **🔗 API Integration** — Exploring how APIs can connect and automate applications. | **🧠 AI Workflows** — Experimenting with AI-powered tools and automation ideas. |
 
 ---
 
 ## ғᴇᴀᴛᴜʀᴇᴅ ᴘʀᴏᴊᴇᴄᴛs
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 ᴀɪ ᴀᴜᴛᴏᴍᴀᴛɪᴏɴ ᴀssɪsᴛᴀɴᴛ
-
-ᴀ sᴍᴀʀᴛ ᴀᴜᴛᴏᴍᴀᴛɪᴏɴ ᴀssɪsᴛᴀɴᴛ ᴜsɪɴɢ ᴘʏᴛʜᴏɴ ᴀɴᴅ ᴀᴘɪs.
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🌐 ᴘᴇʀsᴏɴᴀʟ ᴘᴏʀᴛғᴏʟɪᴏ
-
-ᴀ ᴍᴏᴅᴇʀɴ ᴅᴇᴠᴇʟᴏᴘᴇʀ ᴘᴏʀᴛғᴏʟɪᴏ ғᴏʀ ᴘʀᴏᴊᴇᴄᴛs ᴀɴᴅ sᴋɪʟʟs.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 📊 ᴇxᴄᴇʟ ᴀᴜᴛᴏᴍᴀᴛɪᴏɴ
-
-ᴘʏᴛʜᴏɴ sᴄʀɪᴘᴛs ғᴏʀ ᴀᴜᴛᴏᴍᴀᴛɪɴɢ ʀᴇᴘᴇᴛɪᴛɪᴠᴇ ᴇxᴄᴇʟ ᴡᴏʀᴋғʟᴏᴡs.
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🔐 ᴀᴜᴛʜᴇɴᴛɪᴄᴀᴛɪᴏɴ sʏsᴛᴇᴍ
-
-ᴀ ʟᴏɢɪɴ ᴀɴᴅ ᴀᴅᴍɪɴ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ sʏsᴛᴇᴍ ᴜsɪɴɢ ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴀɴᴅ ʙᴀᴄᴋᴇɴᴅ ᴛᴇᴄʜɴᴏʟᴏɢɪᴇs.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🌍 ɪᴏᴛ ᴅᴀsʜʙᴏᴀʀᴅ
-
-ᴀ ʀᴇᴀʟ-ᴛɪᴍᴇ ɪᴏᴛ ᴍᴏɴɪᴛᴏʀɪɴɢ ᴅᴀsʜʙᴏᴀʀᴅ ғᴏʀ sᴍᴀʀᴛ ᴅᴇᴠɪᴄᴇs.
-
-</td>
-<td width="50%"></td>
-</tr>
-</table>
+| Project | Description |
+|---|---|
+| 🤖 **AI Automation Assistant** | A smart automation assistant built using Python and APIs. |
+| 🌐 **Personal Portfolio** | A modern developer portfolio for projects and skills. |
+| 📊 **Excel Automation** | Python scripts for automating repetitive Excel workflows. |
+| 🔐 **Authentication System** | A login and admin management system using JavaScript and backend technologies. |
+| 🌍 **IoT Dashboard** | A real-time IoT monitoring dashboard for smart devices. |
 
 ---
 
@@ -169,10 +93,9 @@
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=tech-by-niteshh&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=38BDF8&icon_color=818CF8&text_color=C9D1D9&rank_icon=github" height="180"/>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tech-by-niteshh&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" height="180"/>
 
-<br>
+<br><br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tech-by-niteshh&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=818CF8&currStreakLabel=38BDF8" width="70%"/>
 
@@ -194,7 +117,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="90%"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="90%"/>
 
 </div>
 
@@ -205,20 +128,16 @@
 <div align="center">
 
 <a href="https://www.linkedin.com/in/nitesh-chaurasiya-a7b2aa3a5">
-<img src="https://img.shields.io/badge/ʟɪɴᴋᴇᴅɪɴ-ᴄᴏɴɴᴇᴄᴛ-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
+&nbsp;&nbsp;
 <a href="https://x.com/tech_by_niteshh">
-<img src="https://img.shields.io/badge/𝕏-ғᴏʟʟᴏᴡ-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
-
+&nbsp;&nbsp;
 <a href="https://discord.gg/JswzDZUYP">
-<img src="https://img.shields.io/badge/ᴅɪsᴄᴏʀᴅ-ᴊᴏɪɴ-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/ᴘᴏʀᴛғᴏʟɪᴏ-ᴄᴏᴍɪɴɢ%20sᴏᴏɴ-111827?style=for-the-badge&logo=googlechrome&logoColor=38BDF8"/>
 
 </div>
 
@@ -226,7 +145,7 @@
 
 <div align="center">
 
-> ᴋᴇᴇᴘ ʙᴜɪʟᴅɪɴɢ · ᴋᴇᴇᴘ ʟᴇᴀʀɴɪɴɢ · ᴋᴇᴇᴘ ᴀᴜᴛᴏᴍᴀᴛɪɴɢ
+> Keep building · Keep learning · Keep automating
 
 </div>
 
