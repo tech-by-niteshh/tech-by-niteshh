@@ -92,8 +92,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=tech-by-niteshh&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=38BDF8&icon_color=818CF8&text_color=C9D1D9&rank_icon=github" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tech-by-niteshh&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=tech-by-niteshh&show_icons=true&theme=tokyonight" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tech-by-niteshh&layout=compact&theme=tokyonight" height="180"/>
 
 <br><br>
 
