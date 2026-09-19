@@ -92,8 +92,10 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=tech-by-niteshh&show_icons=true&theme=tokyonight" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tech-by-niteshh&layout=compact&theme=tokyonight" height="180"/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=tech-by-niteshh&show_icons=true&theme=tokyonight" height="180"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=tech-by-niteshh&layout=compact&theme=tokyonight" height="180"/>
+
+
 
 <br><br>
 
@@ -107,7 +109,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=tech-by-niteshh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4" width="80%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tech-by-niteshh&theme=tokyonight" width="85%"/>
 
 </div>
 
